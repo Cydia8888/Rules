@@ -537,7 +537,7 @@ DOMAIN,t-ads.xiaohongshu.com
 # > Youku
 DOMAIN-SUFFIX,atm.youku.com
 DOMAIN,ad.mobile.youku.com
-DOMAIN,iyes.youku.com
+# > DOMAIN,iyes.youku.com
 # > YouTube++
 DOMAIN,ehg-youtube.hitbox.com
 # (Z)
